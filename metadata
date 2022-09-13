@@ -1,0 +1,23 @@
+{
+  "name": "updated metadata #0001",
+  "symbol": "NB",
+  "description": "alex e cel mai tare",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/alexmita04/metadata-test/main/0.png",
+  "attributes": [{ "trait_type": "metadata", "value": "alex" }],
+  "properties": {
+    "creators": [
+      {
+        "address": "MVfMVS2uU9xS91aVdUqS3yZp1v4xBeBHTjA72uuGdYM",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/alexmita04/metadata-test/main/0.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": { "name": "numbers", "family": "numbers" }
+}
